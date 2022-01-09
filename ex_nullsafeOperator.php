@@ -6,7 +6,7 @@ error_reporting(~0);
 $result = null;
 $status = $result ?? '(unknown)'; 
 echo $status;
-// but it didn't work for functions
+// but it didn't work for class methods
 
 // therefore PHP 8's nullsafe operator
 class User {
