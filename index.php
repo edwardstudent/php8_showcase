@@ -27,7 +27,8 @@
         <li>
             <a href="ex_stringable.php" target="_blank">Stringable</a>
         </li>
-    </ul>
-</body>
-
+        <li>
+            <a href="ex_match.php" target="_blank">match</a>
+        </li>
+    
 </html>
