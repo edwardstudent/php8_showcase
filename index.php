@@ -24,6 +24,9 @@
         <li>
             <a href="ex_unionTypes.php" target="_blank">Union Types</a>
         </li>
+        <li>
+            <a href="ex_stringable.php" target="_blank">Stringable</a>
+        </li>
     </ul>
 </body>
 
