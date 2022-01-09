@@ -22,16 +22,19 @@
     <h1>PHP 8 Showcase</h1>
     <ul>
         <li>
-            <a href="ex_unionTypes.php" target="_blank">Union Types</a>
+            <a href="ex_unionTypes.php" target="_blank">union types</a>
         </li>
         <li>
-            <a href="ex_stringable.php" target="_blank">Stringable</a>
+            <a href="ex_stringable.php" target="_blank">stringable</a>
         </li>
         <li>
             <a href="ex_match.php" target="_blank">match</a>
         </li>
         <li>
-            <a href="ex_nullsafeOperator.php" target="_blank">Nullsafe-Operator</a>
+            <a href="ex_nullsafeOperator.php" target="_blank">nullsafe operator</a>
+        </li>
+        <li>
+            <a href="ex_namedArguments.php" target="_blank">named arguments</a>
         </li>
     
 </html>
